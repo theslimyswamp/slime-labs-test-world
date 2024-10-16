@@ -15,5 +15,4 @@ xaeromap.txt
 
 # The nether and end
 # Servers don't load worlds like this anyway, so these files are pointless.
-DIM-1
 DIM1
