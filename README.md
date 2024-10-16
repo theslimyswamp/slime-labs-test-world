@@ -1,2 +1,3 @@
-# tss-slime-labs-test-world
-The world used to test Minecraft server features along with the TSS Slime Labs Plugin.
+# TSS Slime Labs Test World
+
+> The world used to test Minecraft server features along with the TSS Slime Labs Plugin.
