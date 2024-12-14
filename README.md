@@ -1,5 +1,7 @@
 # TSS Slime Labs Test World
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > The world used to test Minecraft server features along with the [TSS Slime Labs Plugin](https://github.com/TheSlimySwamp/slime-labs-plugin).
 
 ## License
