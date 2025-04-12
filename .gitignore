@@ -16,3 +16,6 @@ xaeromap.txt
 # The nether and end
 # Servers don't load worlds like this anyway, so these files are pointless.
 DIM1
+
+# Backups
+*.dat_old
